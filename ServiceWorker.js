@@ -1,9 +1,9 @@
 const cacheName = "AloneClone-8Ball Pool-1.0";
 const contentToCache = [
-    "Build/New folder (7).loader.js",
-    "Build/New folder (7).framework.js.unityweb",
-    "Build/New folder (7).data.unityweb",
-    "Build/New folder (7).wasm.unityweb",
+    "Build/New folder.loader.js",
+    "Build/New folder.framework.js.unityweb",
+    "Build/New folder.data.unityweb",
+    "Build/New folder.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
